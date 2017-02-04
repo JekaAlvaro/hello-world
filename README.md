@@ -1,2 +1,4 @@
 # hello-world
-Solo otro repositorio
+
+Hola soy Jeka!
+Es mi primera vez en Android y estoy super emocionada!!!
